@@ -4,3 +4,4 @@
 ## Esperiência
 
 - Servente de pedreiro
+- Jogos eletrônicos
