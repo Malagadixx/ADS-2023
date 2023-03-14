@@ -4,9 +4,12 @@
 ## Dados pessoais: 
 
 CPF:
+
 RG:
+
 TELEFONE:
-E-MAIL
+
+E-MAIL:
 
 
 ---
