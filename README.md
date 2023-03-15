@@ -4,13 +4,13 @@
 
 ## Dados pessoais: 
 
-CPF:
+CPF:568.213.469-25
 
-RG:
+RG:231.654.415-00
 
-TELEFONE:
+TELEFONE:(14) 991395667
 
-E-MAIL:
+E-MAIL:xanxan@hotmail.com
 
 ---
 
@@ -20,3 +20,7 @@ E-MAIL:
 
 - Servente de pedreiro
 - Jogos eletrônicos
+- Traficante 
+- Agiota
+- maconheiro
+
